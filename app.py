@@ -26,7 +26,7 @@ st.markdown("""
     [data-testid="stSidebar"] { background-color: #ffffff; border-right: 1px solid #e9ecef; }
     .news-card { background-color: white; padding: 15px; border-radius: 8px; margin-bottom: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); border-left: 4px solid #0d6efd; }
     .news-card:hover { transform: translateY(-2px); box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
-    .block-container { padding-top: 2rem; max-width: 95%; }
+    .block-container { padding-top: 6rem; max-width: 95%; }
     #MainMenu {visibility: hidden;} footer {visibility: hidden;}
     
     /* Login Form Styling */
